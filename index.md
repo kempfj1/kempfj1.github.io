@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Welcome to Julia's Software Engineering Page
 
-You can use the [editor on GitHub](https://github.com/kempfj1/kempfj1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### January 16th, 2017
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What Software Engineering Means to Me:
 
 ```markdown
-Syntax highlighted code block
+It seems as though everyone in my family is a genius in their own way,
+but my father is a genius in almost every way. He has a degree in 
+Aerospace Engineering, Software Engineering, and Electrical Engineering,
+so let's just say he has a lot of books about every subject. As a child,
+we used to take things apart and try and build other things from the parts
+we had disassembled, he would solder every circuit board I would shove at him,
+and we would do every "nerdy" activity together, me being the imagination, and
+he the one to actually create the things I dreamed up. 
 
-# Header 1
-## Header 2
-### Header 3
+Software Engineering is being able to make the things I dream up myself,
+and figuring out how to bring them to life, the imagination just helps
+me find things to make.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The Pragmatic Programmer Chapter 1:
 
-### Jekyll Themes
+```markdown
+While I can appreciate the beginning of this chapter telling me to be 
+accountable for myself, I think they might have put this lecture in the
+wrong book. It probably belongs in a school handbook or a self-help
+book, and seems superfluous, but maybe someone out ther got something
+out of it, but I doubt it.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kempfj1/kempfj1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Important:
+**Entropy is a term from physics that refers to the amount of "disorder" 
+in a system. Unfortunately, the laws of thermodynamics guarantee that the
+entropy in the universe tends toward a maximum. When disorder increases in 
+software, programmers call it "software rot."**
 
-### Support or Contact
+**Know when to stop: Don't spoil a perfectly good program by overembellishment 
+and over-refinement. Move on, and let your code stand in its own right for a while.
+It may not be perfect. Don't worry: it could never be perfect.**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+In conclusion, this book is not at all what I was expecting. I was
+expecting something along the lines of "this is how you do this"
+and "here is a good program for doing this" but seem to be face-to-face
+with a "programmer's self help book," which isn't horrible, I suppose.
+I enjoy the real life scenarios to make something 2D seem 3D, and more
+relatable in content.
+
+
