@@ -46,5 +46,45 @@ and "here is a good program for doing this" but seem to be face-to-face
 with a "programmer's self help book," which isn't horrible, I suppose.
 I enjoy the real life scenarios to make something 2D seem 3D, and more
 relatable in content.
+```
+
+The Pragmatic Programmer Chapter 2:
+
+```markdown
+Firstly, starting off a chapter with a Star Trek reference will always have my 
+attention, so this must be a good one.
+
+One of the more interesting subjects in this chapter is the idea of programmers 
+constantly "cleaning" code, and bug fixes being a constant task. I don't
+have much experience with debugging except those occasional updates I get
+on the apps on my phone. These updates, I know, are worked on between each 
+update, but it does make me wonder: at what point does an update become so 
+necessary that the developers push it to their (sometimes) millions of users?
+This answer may vary from person to person, but if the work is never done in
+debugging and updating, when do they decide to take a break and send out what
+they've accomplished? It's like counting to infinity: why can't I wrap my brain
+around the fact that it cannot end.
+
+This whole chapter has been mostly about clean code: documentation, lack of 
+repeats, traceability, and reversibility. These things should be engraved in 
+my brain by now, but the examples were immensely helpful in showing real-world
+reasons to justify why I should do it, I always have, but I'm glad to have a real reason,
+and not just a teacher telling me that I need to do it just because I do.
+
+Prototyping describes my programming experience really well:
+"Prototyping is a learning experience. Its value lies not in the code produced, 
+but in the lessons learned."
+
+
+**Fun Class Note:**
+Software Development Cycle:
+1. Plan
+2. Design
+3. Build
+4. Test
+5. Deliver
+6. Maintain
+7. Retire
+```
 
 
