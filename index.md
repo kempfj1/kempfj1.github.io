@@ -86,5 +86,30 @@ Software Development Cycle:
 6. Maintain
 7. Retire
 ```
+The Pragmatic Programmer Chapter 3:
+```markdown
+Things I absorbed:
+1. Plain Text is good, it will outlive me
+2. Code generators are code that generates other code (which isn't a definition, at all).
+3. Debugging is hard for really arrogant people, and probably me.
+4. Use source code control or die, basically.
 
+I am not entirely in love with this book mainly because I have yet to even
+attempt most of these things, and I am not understanding them by reading
+"what not to do." I know these are mostly just suggestions on how to "act"
+while programming, but they're preaching to a brick wall, because I do not/
+have not done most of these things. 
+
+Frequently, the book talks about reversibility and how important it is,
+but lacks information on how to literally accomplish that. It's like if the
+bible had just been like "BE A GOOD PERSON" and not had a list of things not 
+to do (aka the 10 Commandments)(No I'm not religious but this is the simplest anology
+I could think of).
+
+The one section that actually did make some sense was the suggestion to become 
+extremely proficient in one editor, like Intellij. Every day I try to find more
+shortcuts in the application, making code more simple and quicker to accomplish.
+I'm still not very proficient in the program, but the more I use it the better
+I get.
+```
 
