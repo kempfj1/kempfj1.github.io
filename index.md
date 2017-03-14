@@ -113,3 +113,60 @@ I'm still not very proficient in the program, but the more I use it the better
 I get.
 ```
 
+12 Factor 
+```markdown
+1.
+When the site began to talk about "Codebase" I was a tad confused
+as I am in most things in computer science, as it is all very abstract. 
+Fortunately, the diagrams helped make some more sense of the subject.
+*A codebase is any single repo, or any set of repos who share a root commit*
+*A deploy is a running instance of the app.*
+*A distributed system is multiple codebases*
+Though these notes may be helpful, it does seem a little overkill to 
+have so many technicalities in what to call something, but I guess I 
+do not know enough to comment on the subject.
+
+2.
+*A twelve-factor app never relies on implicit existence of system-wide packages.*
+I cannot lie, this one seems like a someone might be rambling on about why
+Twelve-factor apps are better than everything else. It almost seems cocky 
+as they diss system-wide packages.
+
+3.
+An app’s config is everything that is likely to vary between deploys, which includes:
+1. Resource handles to the database, Memcached, and other backing services
+2. Credentials to external services such as Amazon S3 or Twitter
+3. Per-deploy values such as the canonical hostname for the deploy
+
+"Apps sometimes store config as constants in the code. This is a violation of twelve-factor,
+which requires strict separation of config from code."
+Uh oh, someone's getting all high and mighty again.
+
+4.
+*A backing service is any service the app consumes over the network as part of its normal operation.*
+*The code for a twelve-factor app makes no distinction between local and third party services.*
+*Each distinct backing service is a resource*
+
+5.
+*The build stage is a transform which converts a code repo into an executable bundle known as a build.*
+Would you look at that, I've done this one!
+*The release stage takes the build produced by the build stage and combines it with 
+the deploy’s current config.*
+*The run stage (also known as “runtime”) runs the app in the execution environment, 
+by launching some set of the app’s processes against a selected release.*
+*The twelve-factor app uses strict separation between the build, release, and run stages.*
+
+6.
+*Twelve-factor processes are stateless and share-nothing.*
+AKA everything needs to be stored in a database heck yes!
+Running from the command line, alright!
+
+7.
+*The twelve-factor app is completely self-contained and does not rely on runtime
+injection of a webserver into the execution environment to create a web-facing service.*
+I feel like I'm being sold a fancy purse or a subscription to something the way they 
+talk about how "advanced" and "exclusive" this process is.
+*exports HTTP as a service by binding to a port*
+Yay I get this, port numbers and stuff!
+
+8.
