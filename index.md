@@ -170,3 +170,26 @@ talk about how "advanced" and "exclusive" this process is.
 Yay I get this, port numbers and stuff!
 
 8.
+...processing? This one had a lot of words I did not know, and using the Google did not help.
+
+9.
+*The twelve-factor app’s processes are disposable, meaning they can be started or stopped at a moment’s notice.*
+Processes minimize startup time.
+Processes should "shut down gracefully" *cue eye roll*
+
+10.
+*The twelve-factor app is designed for continuous deployment by keeping the gap
+between development and production small.*
+The table here actually makes some sense, and so do the "job descriptions"
+attached to it.
+
+11.
+Logs.
+Heck yeah. I know this one already.
+
+12.
+Admin processes, is this like user functionality?
+
+I was not the biggest fan of this reading (which isn't surprising) because it, like
+the others, got on quite a high horse and didn't come down. Some of the pages had
+good information, but I felt like I was being shamed for not doing this before.
