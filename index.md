@@ -193,3 +193,22 @@ Admin processes, is this like user functionality?
 I was not the biggest fan of this reading (which isn't surprising) because it, like
 the others, got on quite a high horse and didn't come down. Some of the pages had
 good information, but I felt like I was being shamed for not doing this before.
+```
+
+Mythical Man Month
+```markdown
+"All programmers are optimists" is an excellent way to start a paragraph that accurately
+describes all my group programming experience: we always think it will all be fine,
+and it rarely ever is. 
+Creative activity: the idea, the implementation, and the interaction.
+Bad ideas and "holes" become visible during implementation, and inadequacies are exposed.
+*Cost does indeed vary as the product of the number of men and the number of months.
+Progress does not*
+Basically the man month only works in a world where communism also works.
+A software task is set up as 1/3 planning, 1/6 coding, 1/4 component test, 1/4 system test.
+
+*Adding manpower to a late software project only makes it later*
+
+Well, I actually liked this reading for once (yay!) as it uses math and human behavior
+to disprove this magical idea around productivity and adding people, which I have noticed,
+really desn't work. So it is nice to see it disproved.
