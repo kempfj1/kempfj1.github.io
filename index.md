@@ -212,3 +212,17 @@ A software task is set up as 1/3 planning, 1/6 coding, 1/4 component test, 1/4 s
 Well, I actually liked this reading for once (yay!) as it uses math and human behavior
 to disprove this magical idea around productivity and adding people, which I have noticed,
 really desn't work. So it is nice to see it disproved.
+```
+The Pragmatic Programmer Chapter 4
+```markdown
+Here is what I absorbed from this chapter:
+
+1. Don't trust anyone else's code
+2. Don't trust your own code
+3. Don't trust anyone, while we're at it
+4. Your software will never be perfect!
+5. Use exceptions
+6. CRASH STUFF AWW YEAH
+7. Be pragmatic
+
+Basically, 
