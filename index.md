@@ -225,4 +225,13 @@ Here is what I absorbed from this chapter:
 6. CRASH STUFF AWW YEAH
 7. Be pragmatic
 
-Basically, 
+Basically, trust no one and also you'll never ever ever be perfect. I mean not even your
+"Hello World" will be perfect so don't try, ok?? I mean, not really, but it felt like
+that. Also, think about all the things that could go wrong, and do them. Then fix it.
+
+Oh yeah, and use "finally" in Java if you can. It is your friend.
+
+One more thing, finish what you started, and if you can't finish it completely, 
+finish what you can.
+```
+
