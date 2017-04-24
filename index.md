@@ -251,3 +251,22 @@ Bascially, it's code that can write itself. So use it.
 Temporal coupling: a common design problem that occurs in API design which occurs when there's an
 implicit relationship between two, or more, members of a class requiring clients to invoke
 one member before the other. This tightly couples the members in the temporal dimension.
+
+Blackboard metaphor: A group of specialists are seated in a room with a large blackboard. They work 
+as a team to brainstorm a solution to a problem, using the blackboard as the workplace for 
+cooperatively developing the solution. The session begins when the problem specifications are 
+written onto the blackboard. The specialists all watch the blackboard, looking for an 
+opportunity to apply their expertise to the developing solution. When someone writes something on 
+the blackboard that allows another specialist to apply their expertise, 
+the second specialist records their contribution on the blackboard, hopefully enabling other specialists 
+to then apply their expertise. This process of adding contributions to the blackboard continues until the 
+problem has been solved.
+
+Blackboard, technically: ultimately a way for different behaviors to communicate together. 
+The advantage of the blackboard is that it provides modularity; the different systems don’t depend on 
+each other, instead they just exchange the data via the blackboard. This reduces the level of coupling 
+between the different behaviors, which makes the system easy to work with.
+```
+The Pragmatic Programmer Chapter 6
+```markdown
+Always understand "why" a program works. 
