@@ -234,4 +234,20 @@ Oh yeah, and use "finally" in Java if you can. It is your friend.
 One more thing, finish what you started, and if you can't finish it completely, 
 finish what you can.
 ```
+The Pragmatic Programmer Chapter 5
+```markdown
+Code must be flexible, just like we must be flexible. This means documentation, good style, and good
+variable names as well as good testing.
 
+Decoupling, yay! But first, coupling. Coupling is a term that describes the relationship 
+between two entities in a software system (usually classes). When a class uses another class, or 
+communicates with it, it's said to 'depend' on that other class, and so these classes are 'coupled'.
+At least one of them 'knows' about the other. The idea is that we should try to keep the coupling
+between classes in our systems as 'loose' as possible: hence 'loose coupling' or sometimes 'decoupling'.
+
+Metaprogramming: refers to a variety of ways a program has knowledge of itself or can manipulate itself.
+Bascially, it's code that can write itself. So use it.
+
+Temporal coupling: a common design problem that occurs in API design which occurs when there's an
+implicit relationship between two, or more, members of a class requiring clients to invoke
+one member before the other. This tightly couples the members in the temporal dimension.
