@@ -269,4 +269,44 @@ between the different behaviors, which makes the system easy to work with.
 ```
 The Pragmatic Programmer Chapter 6
 ```markdown
-Always understand "why" a program works. 
+Always understand "why" a program works. Don't go to bed until you understand your code completely, otherwise
+you'll be sad in the morning. Know what you are relying on. 
+
+O-Notation: Big O notation is the language we use for articulating how long an algorithm takes to run. It's 
+how we compare the efficiency of different approaches to a problem. With big O notation we express the runtime 
+in terms ofhow quickly it grows relative to the input, as the input gets arbitrarily large. Big O specifically 
+describes the worst-case scenario, and can be used to describe the execution time required or the space used 
+(e.g. in memory or on disk) by an algorithm.
+
+Write self testing code, use assertions and test low to high. Tests are considered documentation, so do them.
+Use the same platform to text all your code and set it as a standard. 
+
+If you use a code generator, make sure you know what it is doing, as it will, obviously, be used in your
+code, and the best way to write good code is to know what you have written.
+```
+The Pragmatic Programmer Chapter 7
+```markdown
+"Requirements rarely lie on the surface. Normally, they’re buried deep beneath layers of assumptions, 
+misconceptions, and politics"
+
+"Work with a user to think like a user," aka, spend a week in the shoes of the person you are writing for,
+see what they need from it, and you'll be able to see what more they need from it. This can help with
+writing cases and debugging. Spend a week in their shoes and you'll know what to write. Avoid
+creeping featurism. Creeping featurism is the urge to feature as many things as possible within the given 
+time period to the detriment of other goals, such as simplicity, compactness, stability, misspelling reduction, 
+humor value, funniness, public approval, evolution of competing works, usefulness, efficiency, common sense, 
+fitness, standard compliance, and many other that are hardly relevant for the purposes of this definition, 
+but which you can add later should you desire.
+
+Impossible puzzles: don't think outside the box, find the box. The impossible puzzle probably has
+a solution, even though it may say "impossible." Reread directions and find the box before you
+think outside of it. Then ask yourself again, is there an easier way for me to do this?
+
+Finally something I can actually relate to: "great performers know when to start and when to wait." When
+I sing, I know when to wait and when to go. When I dance I know when to pause, when to hold, and when 
+to begin again. When I am in a show, I do not walk on stage until the time is right. "You are a great
+performer. You too need to listen to the voice that whispers 'wait.' If you sit down to start typing 
+and there's some nagging doubt in your mind, heed it." Start when you're ready.
+(The doesn't mean procrastinate, though).
+
+
